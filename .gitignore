@@ -1,0 +1,15 @@
+bin/**
+gen/**
+objs/**
+obj/**
+proguard/dump.txt
+proguard/mapping.txt
+proguard/seeds.txt
+proguard/usage.txt
+.cproject
+.project
+.settings/**
+dist
+libBMapApiEngine_v1_3_3.so
+org.eclipse.cdt.managedbuilder.core.genmakebuilder.launch
+.DS_Store
